@@ -38,4 +38,6 @@ Sometimes I talk about web and development, check out [code inbox me](https://co
 
 ### Projects
 
-Find some of fun moments with code below...
+<img src="https://github-readme-stats.vercel.app/api?username=daniloster&show_icons=true&theme=radical&title_color=00C756&text_color=fff&icon_color=00C756">
+
+Find some of my fun moments with code below...
