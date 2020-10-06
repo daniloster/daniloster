@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Frontend projects
 - 🤔 I’m looking for different perspectives (Data-Science and Frontend tips are super welcome)
 - 💬 Ask me about life, cooking (food), spirituality, programming...
-- 📫 How to reach me: [@daniloster](https://twitter.com/daniloster) (twitter)
+- 📫 How to reach me: [@daniloster](https://twitter.com/daniloster) (twitter) & [Linkedin](https://www.linkedin.com/in/danilo-castro/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: the lightining on the left looks like the Harry Potter's mark. 
 
